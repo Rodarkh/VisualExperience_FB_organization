@@ -3,8 +3,11 @@ Rodrigo F. Dias*, Radhika Rajan*, Margarida Baeta, Beatriz Belbut, Tiago Marques
 Champalimaud Neuroscience Programme, Champalimaud Foundation, Lisbon, Portugal
 
 
-In this repository we have the Matlab functions (and data structures) necessary to run the model developed for this work, presented in Figure 5.
+In this repository we have the Matlab functions necessary to run the model developed for this work, presented in Figure 5. 
+Download all functions to a "Model Code" directory, and all data structures from the zip file to a "RFshape_parameter" 
+directory inside "Model Code".
 Changing Matlab to directory where functions are will allow to run Master_Script.mat and generate Figures 5 and 6 (takes several hours).
+
 
 Contents:
 Master_Script - this script will run the model with the conditions used to generate Figures 5 and 6. 
