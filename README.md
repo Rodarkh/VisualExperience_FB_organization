@@ -1,5 +1,5 @@
 Visual experience reduces the spatial redundancy between cortical feedback inputs and primary visual cortex neurons.
-Rodrigo F. Dias*, Radhika Rajan*, Margarida Baeta, Beatriz Belbut, Tiago 6 Marques and Leopoldo Petreanu†.
+Rodrigo F. Dias*, Radhika Rajan*, Margarida Baeta, Beatriz Belbut, Tiago Marques and Leopoldo Petreanu†.
 Champalimaud Neuroscience Programme, Champalimaud Foundation, Lisbon, Portugal
 
 
