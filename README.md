@@ -4,8 +4,7 @@ Champalimaud Neuroscience Programme, Champalimaud Foundation, Lisbon, Portugal
 
 
 In this repository we have the Matlab functions necessary to run the model developed for this work, presented in Figure 5. 
-Download all functions to a "Model Code" directory, and all data structures from the zip file to a "RFshape_parameter" 
-directory inside "Model Code".
+Download all functions to a "VisualExperience_FB_organization-main" directory, and all data structures from the zip file to a "RFshape_parameter" directory inside "VisualExperience_FB_organization-main".
 Changing Matlab to directory where functions are will allow to run Master_Script.mat and generate Figures 5 and 6 (takes several hours).
 
 
