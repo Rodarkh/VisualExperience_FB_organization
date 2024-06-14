@@ -9,7 +9,7 @@
 
 clear
 %% Model variables
-n_iterations = 2;
+n_iterations = 10;
 
 initial_LM_dRF = 'DRP0';
 initial_V1_dRF = 'V1';
@@ -19,7 +19,7 @@ V1_RFshape = 'V1';
 connectionRule =  'isoAngle';
 SD = 2.5;
 survivalGain = 15;
-nSamples =1000;
+nSamples =5000000;
 
 %%  Run simulation loop
 for iteration=1:n_iterations
